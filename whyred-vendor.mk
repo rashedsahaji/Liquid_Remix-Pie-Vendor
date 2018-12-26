@@ -1,5 +1,5 @@
-# Copyright (C) 2018 The LineageOS Project
-#
+
+# Copyright (C) 2018 The PixelExperience Project
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
 # You may obtain a copy of the License at
@@ -28,7 +28,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/whyred/proprietary/vendor/firmware/goodixfp.b07:$(TARGET_COPY_OUT_VENDOR)/firmware/goodixfp.b07 \
     vendor/xiaomi/whyred/proprietary/vendor/firmware/goodixfp.mdt:$(TARGET_COPY_OUT_VENDOR)/firmware/goodixfp.mdt \
     vendor/xiaomi/whyred/proprietary/etc/init/dpmd.rc:system/etc/init/dpmd.rc \
-    vendor/xiaomi/whyred/proprietary/vendor/etc/init/vendor.xiaomi.hardware.mlipay@1.0-service.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/vendor.xiaomi.hardware.mlipay@1.0-service.rc \
     vendor/xiaomi/whyred/proprietary/etc/init/wfdservice.rc:system/etc/init/wfdservice.rc \
     vendor/xiaomi/whyred/proprietary/etc/permissions/cneapiclient.xml:system/etc/permissions/cneapiclient.xml \
     vendor/xiaomi/whyred/proprietary/etc/permissions/com.qti.dpmframework.xml:system/etc/permissions/com.qti.dpmframework.xml \
